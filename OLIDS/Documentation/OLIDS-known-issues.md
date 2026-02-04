@@ -89,6 +89,7 @@ The below is a report of the currently known issues within the One London Integr
 ### practitioner
 
 - the field `organisation_id` is missing.
+- where data is sourced via TPP there isn't a logic to popoulate FIRST_NAME and LAST_NAME see [Practitioner](#PRACTITIONER Table) for more information.
 
 ### procedure_request
 
